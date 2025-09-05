@@ -27,4 +27,4 @@ Jamurdme busca ofrecer un ecosistema **seguro, confiable y práctico**, integran
 
 ---
 # 🔥 Github Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gheotxx&theme=dark&border_radius=5&locale=es&card_width=495)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gheotxx&show_icons=true&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gheotxx&theme=dark&border_radius=5&locale=es&card_width=495)](https://git.io/streak-stats)
