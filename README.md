@@ -1,9 +1,18 @@
 
 # 👋 Hola, soy Gheotxx
 
-Soy estudiante de **Ingeniería en Software** con interés en el desarrollo de aplicaciones y plataformas digitales que combinan **funcionalidad, diseño y experiencia de usuario**.  
+Soy estudiante de **Ingeniería en Software** y desarrollador de aplicaciones con enfoque en la **estética y la funcionalidad**.  
+Me apasiona crear proyectos que sean útiles, claros y con un diseño minimalista que aporte a la experiencia de usuario.  
 
-Actualmente soy fundador y desarrollador de **[Jamurdme](https://jamurdme.github.io/)**, un sitio web orientado a los trades dentro de la comunidad de Roblox. 
+---
+
+### 🚀 Sobre mí 
+- 🔹 Desarrollador en **C#**, con proyectos que integran diseño y rendimiento.  
+- 🔹 Interesado en **frontend (HTML, CSS, JS, React)** y en perfeccionar mis habilidades técnicas.  
+- 🔹 Enfocado en crecer como profesional, aprender nuevas tecnologías y construir proyectos con valor real.  
+
+---
+- Actualmente soy fundador y desarrollador de **[Jamurdme](https://jamurdme.github.io/)**, un sitio web orientado a los trades dentro de la comunidad de Roblox. 
 
 Jamurdme busca ofrecer un ecosistema **seguro, confiable y práctico**, integrando:
 - 📊 Calculadora de valores (Robux ↔ USD) con resultados rápidos y transparentes.  
@@ -11,15 +20,12 @@ Jamurdme busca ofrecer un ecosistema **seguro, confiable y práctico**, integran
 - 🤝 Sistema de trade seguro con middlemans verificados.  
 - 🎉 Eventos, sorteos y dinámicas para la comunidad.  
 - 🖥️ Interfaz clara, veloz y minimalista.  
-
-También desarrollo aplicaciones en **C#**, priorizando la **estética junto con la funcionalidad**, para crear software sólido y fácil de usar.  
-
 ---
 
 ✨ Mi objetivo es crecer como desarrollador, aprender nuevas tecnologías y crear proyectos que aporten valor real a las personas.
 
 ---
 # 🔥 Github Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gheotxx&theme=microsoft-dark&locale=es)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gheotxx&theme=tokyonight&locale=es)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gheotxx)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gheotxx&langs_count=8)
