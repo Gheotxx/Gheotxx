@@ -1,5 +1,5 @@
 
-![Logo](https://i.imgur.com/uDIiW6s.png)
+![Logo](https://i.imgur.com/qghN1xq.png)
 # 👋 Hola, soy Gheotxx
 
 Soy estudiante de **Ingeniería en Software** y desarrollador de aplicaciones con enfoque en la **estética y la funcionalidad**.  
