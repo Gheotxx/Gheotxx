@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**Gheotxx/Gheotxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hola, soy Gheotxx
 
-Here are some ideas to get you started:
+Soy estudiante de **Ingeniería en Software** con interés en el desarrollo de aplicaciones y plataformas digitales que combinan **funcionalidad, diseño y experiencia de usuario**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente soy fundador y desarrollador de **[Jamurdme](https://jamurdme.github.io/)**, un sitio web orientado a los trades dentro de la comunidad de Roblox. 
+
+Jamurdme busca ofrecer un ecosistema **seguro, confiable y práctico**, integrando:
+- 📊 Calculadora de valores (Robux ↔ USD) con resultados rápidos y transparentes.  
+- 📌 Lista de precios respaldada por la comunidad de Discord.  
+- 🤝 Sistema de trade seguro con middlemans verificados.  
+- 🎉 Eventos, sorteos y dinámicas para la comunidad.  
+- 🖥️ Interfaz clara, veloz y minimalista.  
+
+También desarrollo aplicaciones en **C#**, priorizando la **estética junto con la funcionalidad**, para crear software sólido y fácil de usar.  
+
+---
+
+✨ Mi objetivo es crecer como desarrollador, aprender nuevas tecnologías y crear proyectos que aporten valor real a las personas.
+
+---
+# 🔥 Github Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gheotxx&theme=microsoft-dark&locale=es)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gheotxx)](https://github.com/anuraghazra/github-readme-stats)
