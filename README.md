@@ -1,4 +1,5 @@
 
+![Logo](https://i.imgur.com/uDIiW6s.png)
 # 👋 Hola, soy Gheotxx
 
 Soy estudiante de **Ingeniería en Software** y desarrollador de aplicaciones con enfoque en la **estética y la funcionalidad**.  
@@ -26,6 +27,4 @@ Jamurdme busca ofrecer un ecosistema **seguro, confiable y práctico**, integran
 
 ---
 # 🔥 Github Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gheotxx&theme=dark&border_radius=5&locale=es&card_width=495)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gheotxx&langs_count=8)
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gheotxx&theme=dark&border_radius=5&locale=es&card_width=495)](https://git.io/streak-stats)
