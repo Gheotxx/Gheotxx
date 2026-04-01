@@ -1,6 +1,6 @@
 
 ![Logo](https://i.imgur.com/qghN1xq.png)
-# 👋 Hola, soy Gheotxx
+# soy Gheotxx 😁
 
 Soy estudiante de **Ingeniería en Software** y desarrollador de aplicaciones con enfoque en la **estética y la funcionalidad**.  
 Me apasiona crear proyectos que sean útiles, claros y con un diseño minimalista que aporte a la experiencia de usuario.  
