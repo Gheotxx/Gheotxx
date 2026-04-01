@@ -13,15 +13,6 @@ Me apasiona crear proyectos que sean útiles, claros y con un diseño minimalist
 - 🔹 Enfocado en crecer como profesional, aprender nuevas tecnologías y construir proyectos con valor real.  
 
 ---
-- Actualmente soy fundador y desarrollador de **[Jamurdme](https://jamurdme.github.io/)**, un sitio web orientado a los trades dentro de la comunidad de Roblox. 
-
-Jamurdme busca ofrecer un ecosistema **seguro, confiable y práctico**, integrando:
-- 📊 Calculadora de valores (Robux ↔ USD) con resultados rápidos y transparentes.  
-- 📌 Lista de precios respaldada por la comunidad de Discord.  
-- 🤝 Sistema de trade seguro con middlemans verificados.  
-- 🎉 Eventos, sorteos y dinámicas para la comunidad.  
-- 🖥️ Interfaz clara, veloz y minimalista.  
----
 
 ✨ Mi objetivo es crecer como desarrollador, aprender nuevas tecnologías y crear proyectos que aporten valor real a las personas.
 
